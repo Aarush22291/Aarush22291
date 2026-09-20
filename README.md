@@ -26,7 +26,7 @@ I founded **[PosChair](https://github.com/Aarush22291/poschair)**, an AI-powered
 |---|---|---|
 | **[PosChair](https://github.com/Aarush22291/poschair)** | Computer-vision posture intelligence for healthier work and study environments. | TypeScript · Python · C++ · CV |
 | **[Campora](https://github.com/Aarush22291/campora-smart-campus)** | A smart-campus platform designed to make student life more connected and discoverable. | TypeScript · Python · Web |
-| **[Jarvis App](https://github.com/Aarush22291/jarvis-app)** | An intelligent workspace exploring useful automation and AI-first interfaces. **[Live demo ↗](https://jarvis-app-lime-chi.vercel.app)** | TypeScript · Python · AI |
+| **[Jarvis App](https://github.com/Aarush22291/jarvis-app)** | An intelligent workspace exploring useful automation and AI-first interfaces. | TypeScript · Python · AI |
 | **[Paper Trader](https://github.com/Aarush22291/paper-trader-app)** | A full-stack mobile paper-trading experience with simulated trades and portfolio tracking. | React Native · Node.js · MongoDB |
 | **[Rotten Fruits Identifier](https://github.com/Aarush22291/Rotten-Fruits-Identifier)** | A focused computer-vision experiment for identifying spoiled produce. | Python · Machine Learning |
 | **[Portfolio](https://github.com/Aarush22291/aarush-gambhir-portfolio)** | My visual archive of projects, milestones, photographs, and certifications. | HTML · CSS · JavaScript |
