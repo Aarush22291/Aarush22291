@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 360" role="img" aria-labelledby="title desc">
+  <title id="title">Aarush Gambhir</title>
+  <desc id="desc">AI, computer vision, and product builder</desc>
+  <rect width="1200" height="360" fill="#f5f0e6"/>
+  <rect x="24" y="24" width="1152" height="312" fill="none" stroke="#25304b" stroke-width="2"/>
+  <path d="M24 93h1152M842 24v312" stroke="#25304b" stroke-width="1" opacity=".35"/>
+  <circle cx="74" cy="59" r="7" fill="#c4614c"/>
+  <text x="95" y="66" fill="#25304b" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="16" letter-spacing="4">BUILDER / FOUNDER / STUDENT</text>
+  <text x="64" y="205" fill="#25304b" font-family="Arial, Helvetica, sans-serif" font-size="84" font-weight="700" letter-spacing="-5">AARUSH</text>
+  <text x="64" y="286" fill="none" stroke="#25304b" stroke-width="1.5" font-family="Arial, Helvetica, sans-serif" font-size="84" font-weight="700" letter-spacing="-5">GAMBHIR</text>
+  <rect x="879" y="72" width="245" height="52" rx="26" fill="#25304b"/>
+  <text x="1001" y="104" fill="#f5f0e6" text-anchor="middle" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="14" letter-spacing="2">FOUNDER @ POSCHAIR</text>
+  <text x="879" y="172" fill="#c4614c" font-family="Georgia, Times New Roman, serif" font-size="31" font-style="italic">useful intelligence,</text>
+  <text x="879" y="211" fill="#25304b" font-family="Georgia, Times New Roman, serif" font-size="31" font-style="italic">built in public.</text>
+  <text x="879" y="279" fill="#25304b" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="14" letter-spacing="2">AI · COMPUTER VISION</text>
+  <text x="879" y="306" fill="#25304b" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="14" letter-spacing="2">FULL-STACK · PRODUCT</text>
+</svg>
